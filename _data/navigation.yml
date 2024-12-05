@@ -1,0 +1,16 @@
+# main links
+main:
+  - title: "About"
+    url: /aboutme/
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "Outreach"
+    url: /outreach/
+  - title: "Arachnology @NHMLAC"
+    url: /UnderCons/
+  - title: "Contact"
+    url: /contact-page/
+  - title: "Archive"
+    url: /archive-layout/
