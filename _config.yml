@@ -111,7 +111,7 @@ author:
       url: "mailto:monroderik@gmail.com"
     - label: "CV"
       icon: "fa-solid fa-file-pdf"
-      url: "/assets/CV_Rodrigo_Monjaraz_Ruedas.pdf"
+      url: "/assets/pdfs/CV_Rodrigo_Monjaraz_Ruedas.pdf"
 
 # Site Footer
 footer:

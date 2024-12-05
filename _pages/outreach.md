@@ -65,7 +65,7 @@ According with the latest studies, Schizomids originated in North America, find 
 
 For some arthropod groups with small body size and limited distribution abilities, their current distribution can be tracked down all the way back to Pangea, learn more about this critters in this small note! (Originally written in Spanish).
 
-<a href="hthttps://aracnidosmex.wixsite.com/aracnidos/single-post/2017/12/18/cuando-abandonar-tu-hogar-te-cuesta-miles-de-a%C3%B1os-los-ricin%C3%BAlidos-y-su-actual-distribuci%C3%B3" class="btn btn--primary">Ver Nota 🇲🇽 </a>
+<a href="https://aracnidosmex.wixsite.com/aracnidos/single-post/2017/12/18/cuando-abandonar-tu-hogar-te-cuesta-miles-de-a%C3%B1os-los-ricin%C3%BAlidos-y-su-actual-distribuci%C3%B3" class="btn btn--primary">Ver Nota 🇲🇽 </a>
 <a href="/assets/pdfs/Ricinulei.pdf" class="btn btn--primary">Learn More 🇺🇸 </a>
 
 &nbsp;
