@@ -94,12 +94,9 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : /assets/images/Self.jpg
-  bio              : "Postdoctoral Research Fellow"
-  location         : "San Diego, CA"
+  bio              : "Assistant Curator of Entomology, Natural History Museum of Los Angeles County"
+  location         : "Los Angeles, CA"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/Monroderik"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rmonjaraz"
@@ -108,7 +105,7 @@ author:
       url: "https://scholar.google.com/citations?user=QUkA_7wAAAAJ&hl=es"
     - label: "E-mail"
       icon: "fa fa-envelope"
-      url: "mailto:monroderik@gmail.com"
+      url: "mailto:rmonjarazruedas@nhm.org"
     - label: "CV"
       icon: "fa-solid fa-file-pdf"
       url: "/assets/pdfs/CV_Rodrigo_Monjaraz_Ruedas.pdf"

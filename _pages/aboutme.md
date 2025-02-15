@@ -2,11 +2,11 @@
 permalink: /aboutme/
 title: "About me"
 excerpt: "My academic history and interest."
-last_modified_at: 2024-10-02
+last_modified_at: 2025-02-15
 classes: wide
 ---
 
-I am the incoming Assistant Curator of Entomology at the Natural History Museum of Los Angeles County (NHMLA), I oversee the arachnids and the SRE arthropod collections. I am originally from Mexico City, where I received a master’s and a PhD from the Universidad Nacional Autonoma de Mexico (UNAM). My masters focused mainly on proposing a new nomenclature for a whole group of arachnids (Schizomida), I did some test on the importance of morphological characters on phylogenetic reconstruction, using discrete and continuous characters, I did my research focusing mainly in a genus of schizomids form Southern Mexico. 
+I am Assistant Curator of Entomology at the Natural History Museum of Los Angeles County (NHMLA), I oversee the arachnids and the SRE arthropod collections. I am originally from Mexico City, where I received a master’s and a PhD from the Universidad Nacional Autonoma de Mexico (UNAM). My masters focused mainly on proposing a new nomenclature for a whole group of arachnids (Schizomida), I did some test on the importance of morphological characters on phylogenetic reconstruction, using discrete and continuous characters, I did my research focusing mainly in a genus of schizomids form Southern Mexico. 
 
 During my PhD my research was focused on a larger group of Schizomids, distributed across North America, in my project I combined molecular data and morphology to evaluate and review the evolutionary history and relationships of the North American genus *Stenochrus*, this was the first integrative revision with New World Schizomids which resulted in the description of multiple new genera and species. We also studied the evolution of the schizomids female flagellum and the setae associated with it, we compared specimens from multiple genera around the world, resulting in a revised flagellum nomenclature and a hypothesis of the size reduction of the flagellum in modern schizomids. 
 

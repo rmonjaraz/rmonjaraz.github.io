@@ -13,6 +13,11 @@ header:
   
 ---
 
+***-- 2025 --***
+{: style="text-align: center"}
+
+- Hedin, M., Ramirez, M.J., **Monjaraz-Ruedas, R.** 2025. Phylogenomics of North American cybaeid spiders (Araneae, Cybaeidae), including the description of new taxa from the Klamath Mountains Geomorphic Province. Zookeys. 1226: 47–75. [<i class="fa fa-file-pdf" aria-hidden="true"></i>](/assets/pdfs/Hedin_et_al_2025_Cybaeidae.pdf)
+
 ***-- 2024 --***
 {: style="text-align: center"}
 
