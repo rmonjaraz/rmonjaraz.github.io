@@ -1,24 +1,13 @@
 ---
 layout: splash
 title: Hi my name is Rodrigo!
+excerpt: "Welcome to my Website!"
 permalink: /
-hidden: true
 header:
-  #overlay_color: "#1e3c57de"
   overlay_image: /assets/images/Neoscona_crucifera_banner.jpg
-  #overlay_filter: rgba(205, 239, 154, 0.30)
-  actions:
-    - label: "<i class='fab fa-fw fa-github'></i>"
-      url: "https://github.com/rmonjaraz"
-    - label: "<i class='fa fa-graduation-cap'></i>"
-      url: "https://scholar.google.com/citations?user=QUkA_7wAAAAJ&hl"
-    - label: "<i class='fa fa-envelope'></i>"
-      url: "mailto:monroderik@gmail.com"
-    - label: "<i class='fa-solid fa-file-pdf'></i>"
-      url: "/assets/pdfs/CV_Rodrigo_Monjaraz_Ruedas.pdf"
-excerpt:
-  I study evolutionary biology and systematics of short-range endemic arthropods, my research combines fieldwork, museum collection data, morphology and phylogenomics to address specific questions about speciation, species delineation, morphological evolution, and biodiversity. Much of my research also emphasizes conservation biology, taxonomy and bioinformatics! I am extremely passionate about evolution and exploration of caves.
-  
+  caption: "_Neoscona crucifera_"
+
+
 feature_row:
   - image_path: /assets/images/RingSpecies.jpg
     alt: "Calisoga"
@@ -41,9 +30,25 @@ feature_row:
     url: "/assets/pdfs/Monjaraz-Ruedas_2024_MolEcol.pdf"
     btn_class: "btn--primary"
     btn_label: "Read more"
+---
+
+I study evolutionary biology and systematics of short-range endemic arthropods, my research combines fieldwork, museum collection data, morphology and phylogenomics to address specific questions about speciation, species delineation, morphological evolution, and biodiversity. Much of my research also emphasizes conservation biology, taxonomy and bioinformatics! I am extremely passionate about evolution and exploration of caves.
+{: style="text-align: center; font-size:1.3em; color: #000;"}
+
+<a href="https://scholar.google.com/citations?user=QUkA_7wAAAAJ&hl" alt="Google Scholar" title="Google Scholar">
+  <i class='fa-brands fa-google-scholar' aria-hidden="true" style="color:gray; font-size: 30px"></i></a>
+<a href="https://github.com/rmonjaraz" alt="GitHub" title="GitHub">
+  <i class='fab fa-fw fa-github' aria-hidden="true" style="color:gray; font-size: 30px"></i></a>
+<a href="https://orcid.org/0000-0002-6462-3739" alt="ORCID" title="ORCID">
+  <i class="fab fa-orcid" aria-hidden="true" style="color:gray; font-size: 30px"></i></a>
+<a href="mailto:monroderik@gmail.com" alt="email" title="Email">
+  <i class='fa fa-envelope'  aria-hidden="true" style="color:gray; font-size: 30px"></i></a>
+<a href="/assets/pdfs/CV_Rodrigo_Monjaraz_Ruedas.pdf" alt="CV" title="CV">
+  <i class='fa-solid fa-file' aria-hidden="true" style="color:gray; font-size: 30px"></i></a>
+{: style="text-align: center"}
 
 ---
 
-<h2 style="color: #666666de;font-size: 1.6em;text-align: center;"> Research Highlights</h2>
+<h2 style="color: #666666de;font-size: 1.8em;text-align: center;"> Research Highlights</h2>
 
 {% include feature_row %}
